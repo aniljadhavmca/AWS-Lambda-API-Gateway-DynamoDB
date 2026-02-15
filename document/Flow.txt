@@ -1,3 +1,5 @@
+// use this file if you are wroking with sub domain api
+
 import json
 import boto3
 import urllib.parse
