@@ -17,11 +17,7 @@ It demonstrates:
 
 # 🏗 Architecture Diagram
 
-Add your architecture diagram image in the repository and reference it like this:
-
-```md
-![Architecture Diagram](architecture-diagram.png)
-```
+![Architecture Diagram](https://github.com/aniljadhavmca/AWS-Lambda-API-Gateway-DynamoDB/blob/main/images/AWS%20Lambda%20%2B%20API%20Gateway%20%2B%20DynamoDB-new.png)
 
 ---
 
