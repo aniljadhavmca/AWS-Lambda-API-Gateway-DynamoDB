@@ -1,0 +1,13 @@
+# 🏛 Architecture Flow
+
+Route 53 + SSL (ACM)
+        ↓
+Amazon API Gateway
+        ↓
+AWS Lambda (Python)
+        ↓
+AWS Step Functions (Optional Orchestration)
+        ↓
+Amazon DynamoDB
+        ↑
+CloudWatch Logs (Monitoring & Logging)
